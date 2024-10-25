@@ -171,7 +171,7 @@ class MathTex {
    */
   textToKatex() {
     if (!this.data.text) {
-      this.data.text = 'equation:';
+      this.data.text = '';
     }
 
     if (!this.katexNode) return;
