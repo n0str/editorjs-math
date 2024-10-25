@@ -1,6 +1,6 @@
 {
   "name": "editorjs-math",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Math Block for Editor.js",
   "main": "./dist/bundle.js",
   "scripts": {
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flaming-cl/editorjs-math.git"
+    "url": "git+https://github.com/n0str/editorjs-math.git"
   },
   "keywords": [
     "['editor'",
     "'editorjs'",
     "'tex']"
   ],
-  "author": "flaming-cl",
+  "author": "n0str",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flaming-cl/editorjs-math/issues"
+    "url": "https://github.com/n0str/editorjs-math/issues"
   },
-  "homepage": "https://github.com/flaming-cl/editorjs-math#readme",
+  "homepage": "https://github.com/n0str/editorjs-math#readme",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
