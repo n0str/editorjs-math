@@ -1,5 +1,5 @@
 {
-  "name": "editorjs-math",
+  "name": "@n0str/editorjs-math",
   "version": "1.0.3",
   "description": "Math Block for Editor.js",
   "main": "./dist/bundle.js",
